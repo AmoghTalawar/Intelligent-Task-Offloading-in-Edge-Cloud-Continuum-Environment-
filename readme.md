@@ -34,11 +34,21 @@ The system combines three scheduling strategies:
 
 Processed results and inference outputs are uploaded to a persistent cloud storage server for future model retraining.
 
----
+## Testbed Configuration
 
-
-
-> Testbed: USRP B210 · srsRAN · Open5GS · MicroK8s · OpenStack DevStack
+| Component | Software/Hardware Version/Model |
+|-----------|---------------------------------|
+| Operating System | Ubuntu LTS 22.04 |
+| Rewritable SIM | Programmable SIM LTE/5G |
+| SDR Hardware | USRP B210 |
+| UE Stack | srsRAN Latest |
+| 5G Core Network | Open5GS 2.7.x |
+| Edge Orchestration | MicroK8s Latest |
+| Container Runtime | Docker Latest |
+| Optimization Solver | CBC/HiGHS Latest |
+| Programming Language | Python 3.10 |
+| API Framework | FastAPI Latest |
+| Cloud Virtualization | VMware Workstation |
 
 ---
 
