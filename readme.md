@@ -17,8 +17,9 @@
 ## System Architecture
 
 <!-- Add your architecture diagram here -->
+<img width="378" height="640" alt="system" src="https://github.com/user-attachments/assets/42f2405e-b18d-4347-a126-ef8d08f264a5" />
 
-Setup/img/system (1).jpeg
+
 ---
 
 ## Overview
@@ -35,13 +36,7 @@ Processed results and inference outputs are uploaded to a persistent cloud stora
 
 ---
 
-## Key Results
 
-| Metric | Proposed (MILP + DQN) | DDQN Baseline | Improvement |
-|--------|----------------------|---------------|-------------|
-| End-to-end Latency | — | — | **24.5% lower** |
-| Throughput | — | — | **43.6% higher** |
-| Response Time | — | — | **32.1% lower** |
 
 > Testbed: USRP B210 · srsRAN · Open5GS · MicroK8s · OpenStack DevStack
 
@@ -205,8 +200,6 @@ KLE Technological University, Hubballi
 > If you use, reference, or build upon this work, you **must** credit the original authors and link back to this repository. See the [License](#license) section below.
 
 ---
-
-
 
 
 ## License
