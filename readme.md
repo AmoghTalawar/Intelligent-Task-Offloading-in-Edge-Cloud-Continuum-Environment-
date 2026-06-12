@@ -18,7 +18,7 @@
 
 <!-- Add your architecture diagram here -->
 
-![alt text](<system (1).jpeg>)
+Setup/img/system (1).jpeg
 ---
 
 ## Overview
